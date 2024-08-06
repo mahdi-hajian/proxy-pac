@@ -1,6 +1,8 @@
 
 # Proxy PAC Configuration
 
+[Switch to Persian (فارسی)](README_FA.md)
+
 Welcome to the **Proxy PAC Configuration** repository. This repository hosts a Proxy Auto-Configuration (PAC) file designed to manage and optimize proxy settings for specific domains. The PAC file ensures that certain domains bypass the proxy and connect directly, while all other traffic is routed through the designated proxy server.
 
 ## Table of Contents
