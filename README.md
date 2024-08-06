@@ -34,8 +34,6 @@ The PAC file is hosted on GitHub Pages and can be accessed using the following U
 https://mahdi-hajian.github.io/proxy-pac/proxy.pac
 ```
 
-Replace `mahdi-hajian` with your actual GitHub username to access the PAC file.
-
 ### Configuration Instructions
 
 To use the PAC file in your browser or system, follow these steps:
