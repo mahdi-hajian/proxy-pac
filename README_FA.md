@@ -1,5 +1,3 @@
-<div dir="rtl">
-
 # پیکربندی پروکسی PAC
 
 [Switch to English](README.md)
@@ -129,5 +127,3 @@ https://mahdi-hajian.github.io/proxy-pac/proxy.pac
 ## مجوز
 
 این پروژه تحت مجوز ساده منتشر شده است. برای اطلاعات بیشتر به فایل [LICENSE](LICENSE) مراجعه کنید.
-
-</div>
