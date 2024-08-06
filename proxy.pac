@@ -14,6 +14,7 @@ function FindProxyForURL(url, host) {
         "*.microsoft.com",
         "*.ir",
         "collector.github.com",
+        "www.skyroom.online",
         "digikala.com"
     ];
 
