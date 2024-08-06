@@ -1,5 +1,5 @@
 function FindProxyForURL(url, host) {
-    // لیست دامنه‌هایی که باید مستقیم وصل شوند
+    // List of domains that should connect directly
     const directDomains = [
         "*.google.com",
         "abriment.com",
@@ -17,13 +17,13 @@ function FindProxyForURL(url, host) {
         "digikala.com"
     ];
 
-    // بررسی دامنه‌های مستقیم
+    // Check for direct connection domains
     for (let i = 0; i < directDomains.length; i++) {
         if (shExpMatch(host, directDomains[i])) {
             return "DIRECT";
         }
     }
 
-    // استفاده از پروکسی برای بقیه درخواست‌ها
+    // Use proxy for all other requests
     return "PROXY 127.0.0.1:8086; DIRECT";
 }
