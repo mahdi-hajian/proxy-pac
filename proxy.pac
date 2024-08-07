@@ -16,7 +16,8 @@ function FindProxyForURL(url, host) {
         "collector.github.com",
         "www.skyroom.online",
         "digikala.com",
-        "ifilo.net"
+        "ifilo.net",
+        "p30world.com"
     ];
 
     // Check for direct connection domains
