@@ -3,7 +3,7 @@ function FindProxyForURL(url, host) {
     const directDomains = [
         "*.google.com",
         "abriment.com",
-        "analytics.abriment.com",
+        "*.abriment.com",
         "*.arvancloud.com",
         "*.neshan.org",
         "mrtehran.app",
@@ -14,10 +14,10 @@ function FindProxyForURL(url, host) {
         "*.microsoft.com",
         "*.ir",
         "collector.github.com",
-        "www.skyroom.online",
-        "digikala.com",
-        "ifilo.net",
-        "p30world.com"
+        "*.skyroom.online",
+        "*.digikala.com",
+        "*.ifilo.net",
+        "*.p30world.com"
     ];
 
     // Check for direct connection domains
