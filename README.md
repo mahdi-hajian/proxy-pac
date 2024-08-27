@@ -124,7 +124,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 3. Make your changes and commit them with descriptive messages.
 4. Push your changes to your forked repository.
 5. Create a pull request describing your changes.
-
-## License
-
-This project is licensed under a Simple License. See the [LICENSE](LICENSE) file for more information.
