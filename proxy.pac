@@ -13,6 +13,7 @@ function FindProxyForURL(url, host) {
         "*.live.com",
         "*.microsoft.com",
         "*.ir",
+        "*.iri",
         "collector.github.com",
         "*.skyroom.online",
         "*.digikala.com",
