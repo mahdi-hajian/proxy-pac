@@ -111,6 +111,7 @@ https://mahdi-hajian.github.io/proxy-pac/proxy.pac
 - `*.ir`
 - `collector.github.com`
 - `digikala.com`
+- `...`
 
 می‌توانید آرایه `directDomains` را در فایل PAC تغییر دهید تا دامنه‌ها را بر اساس نیاز خود اضافه یا حذف کنید.
 

@@ -18,7 +18,8 @@ function FindProxyForURL(url, host) {
         "*.skyroom.online",
         "*.digikala.com",
         "*.ifilo.net",
-        "*.p30world.com"
+        "*.p30world.com",
+        "*.spotify.com"
     ];
 
     // Check for direct connection domains

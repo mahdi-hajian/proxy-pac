@@ -112,6 +112,7 @@ The PAC file is configured to allow direct connections to the following domains:
 - `*.ir`
 - `collector.github.com`
 - `digikala.com`
+- `...`
 
 Feel free to modify the `directDomains` array in the PAC file to add or remove domains as needed.
 
