@@ -19,7 +19,8 @@ function FindProxyForURL(url, host) {
         "*.digikala.com",
         "*.ifilo.net",
         "*.p30world.com",
-        "*.spotify.com"
+        "*.spotify.com",
+        "www.yasdl.com"
     ];
 
     // Check for direct connection domains
