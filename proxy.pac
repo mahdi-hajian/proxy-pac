@@ -20,7 +20,8 @@ function FindProxyForURL(url, host) {
         "*.ifilo.net",
         "*.p30world.com",
         "*.spotify.com",
-        "www.yasdl.com"
+        "www.yasdl.com",
+        "192.*"
     ];
 
     // Check for direct connection domains
